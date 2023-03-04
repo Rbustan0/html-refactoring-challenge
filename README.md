@@ -34,4 +34,4 @@ This assignment can be used as an example for using semantic elements in conjunc
 
 [Link to Github User](https://github.com/Rbustan0) <br /><br />
 
-![Alt text](../../../../../../Downloads/rbustan0.github.io_html-refactoring-challenge_.png)
+![Alt text](rbustan0.github.io_html-refactoring-challenge_.png)
